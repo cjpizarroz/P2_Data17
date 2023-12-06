@@ -5,7 +5,7 @@
 <br>
 Los siniestros viales, que comprenden desde choques entre vehículos hasta atropellos, representan una preocupación significativa en ciudades como Buenos Aires debido al intenso tráfico y su impacto en la seguridad de los residentes y la infraestructura. Reducir las tasas de mortalidad relacionadas con estos incidentes es clave para mejorar la seguridad vial. Esto implica acciones como educación, cumplimiento de normativas, infraestructura segura y políticas eficaces para proteger vidas y mejorar la circulación en la ciudad.
 
-Contexto<br>
+<h3>Contexto</h3><br>
 Los siniestros viales continúan siendo una preocupación en Argentina, con aproximadamente 4.000 muertes anuales, siendo la principal causa de muertes violentas en el país. Entre 2018 y 2022, se registraron 19.630 fallecimientos debido a estos incidentes, con un promedio de 11 muertes diarias. En 2022, se contabilizaron 3.828 muertes, evidenciando una alta probabilidad de fatalidad en accidentes viales en comparación con incidentes de inseguridad delictiva.
 
 
@@ -14,10 +14,10 @@ Los siniestros viales continúan siendo una preocupación en Argentina, con apro
 ![imagen_portada](https://github.com/cjpizarroz/P2_Data17/assets/90941874/0dec32f1-e5dd-417f-99f2-04e371ebc105)
 
 
-Rol a desarrollar <br>
+<h3>Rol a desarrollar</h3><br>
 El Observatorio de Movilidad y Seguridad Vial (OMSV), dependiente de la Secretaría de Transporte de Buenos Aires, nos ha encargado un proyecto de análisis de datos. El objetivo es proporcionar información clave para que las autoridades locales puedan tomar medidas efectivas y reducir el número de víctimas fatales en siniestros viales. Nos han facilitado un archivo en formato xlsx con datos sobre homicidios en siniestros viales entre 2016 y 2021 en Buenos Aires. El archivo contiene dos hojas con información sobre hechos y víctimas, además de dos hojas adicionales con diccionarios de datos para facilitar su comprensión.
 
-ETL (Extracción y Transformación de Datos)<br>
+<h3>ETL (Extracción y Transformación de Datos)</h3><br>
 Inicialmente, se manejó un archivo anidado "homicidios.xlsx" con múltiples páginas, organizándolas en dataframes separados.
 Se normalizaron nombres de columnas.
 Se cambiaron algunos tipos de datos
@@ -30,7 +30,8 @@ Duplicados:<br>
 No se encontraron datos duplicados en el análisis de los conjuntos de datos.<br>
 Valores Atípicos:<br>
 No se detectaron valores atípicos.<br>
-Análisis<br>
+
+<h3>Análisis</h3><br>
 
 
 ![grafico1](https://github.com/cjpizarroz/P2_Data17/assets/90941874/bf7b51cc-5259-49c6-a11f-3f04cec9f6f6)
