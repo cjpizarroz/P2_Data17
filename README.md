@@ -1,6 +1,6 @@
 
 
-PROYECTO INDIVIDUAL Nº2
+<h2>PROYECTO INDIVIDUAL Nº2</h2>
 Siniestros viales
 ¡Bienvenidos al último proyecto individual de la etapa de labs! En esta ocasión, deberá hacer un trabajo situándose en el rol de un Data Analyst .
 
