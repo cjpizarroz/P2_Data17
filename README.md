@@ -30,20 +30,26 @@ Duplicados:<br>
 No se encontraron datos duplicados en el análisis de los conjuntos de datos.<br>
 Valores Atípicos:<br>
 No se detectaron valores atípicos.<br>
-Análisis
-![grafico1](https://github.com/cjpizarroz/P2_Data17/assets/90941874/bf7b51cc-5259-49c6-a11f-3f04cec9f6f6)
-![grafico2](https://github.com/cjpizarroz/P2_Data17/assets/90941874/14e953df-d758-471c-97b5-33bb85109b60)
-![grafico3](https://github.com/cjpizarroz/P2_Data17/assets/90941874/309c057d-f0bd-4184-91e2-019eab03a22e)
-![grafico4](https://github.com/cjpizarroz/P2_Data17/assets/90941874/97af3f5d-05cf-4d8c-9bf0-742a71165927)
-![grafico5](https://github.com/cjpizarroz/P2_Data17/assets/90941874/8bbe63bb-8154-4399-a2ed-6e02b94bc40d)
-![grafico6](https://github.com/cjpizarroz/P2_Data17/assets/90941874/72580cb1-478f-417d-8058-92cc8423713b)
+Análisis<br>
+![grafico1](https://github.com/cjpizarroz/P2_Data17/assets/90941874/bf7b51cc-5259-49c6-a11f-3f04cec9f6f6)<br>
+En este grafico observamos la cantidad de accidentes por cada comuna. No se observa valores atipicos.<br>
+![grafico2](https://github.com/cjpizarroz/P2_Data17/assets/90941874/14e953df-d758-471c-97b5-33bb85109b60)<br>
+Aqui observamos la cantidad fallecidos por accidente en cada comuna. Es un grafico muy similar al anterior en la distribucion, con algunas pequeñas diferencias en sus valores.<br>
+![grafico3](https://github.com/cjpizarroz/P2_Data17/assets/90941874/309c057d-f0bd-4184-91e2-019eab03a22e)<br>
+Aqui observamos como se distribuyeron en el tiempo los accidentes, con un marcado descenso en los tiempos de pandemia.<br>
+![grafico4](https://github.com/cjpizarroz/P2_Data17/assets/90941874/97af3f5d-05cf-4d8c-9bf0-742a71165927)<br>
+Observamos una marcada diferencia entre los fallecimientos de hombres en comparación con las mujeres.<br>
+![grafico5](https://github.com/cjpizarroz/P2_Data17/assets/90941874/8bbe63bb-8154-4399-a2ed-6e02b94bc40d)<br>
+Vemos es este grafico, como la gran mayoria de los fallecimientos se encuentran englobados en los roles de conductores y peatones.<br>
+![grafico6](https://github.com/cjpizarroz/P2_Data17/assets/90941874/72580cb1-478f-417d-8058-92cc8423713b)<br>
+Aqui observamos como tanto las motos como los peatones tienen los mayores porcentajes de fallecimientos de personas<br>
 
 Dashboard<br>
 Se confecciono Dashboard, con una portada, una introduccion, dos KPI y un tooltip<br>
-![portada](https://github.com/cjpizarroz/P2_Data17/assets/90941874/cdbc5785-79bd-4511-b7c9-54b827783226)
-![introduccion](https://github.com/cjpizarroz/P2_Data17/assets/90941874/1e0c9edc-6e3e-4a52-b2c5-dc6f732b00df)
-![kpi1](https://github.com/cjpizarroz/P2_Data17/assets/90941874/d36db71c-50b9-4eaa-962a-3c7015f6787e)
-![kpi2](https://github.com/cjpizarroz/P2_Data17/assets/90941874/7f22b0e6-d44a-460d-851a-10d7e904b6ef)
+![portada](https://github.com/cjpizarroz/P2_Data17/assets/90941874/cdbc5785-79bd-4511-b7c9-54b827783226)<br>
+![introduccion](https://github.com/cjpizarroz/P2_Data17/assets/90941874/1e0c9edc-6e3e-4a52-b2c5-dc6f732b00df)<br>
+![kpi1](https://github.com/cjpizarroz/P2_Data17/assets/90941874/d36db71c-50b9-4eaa-962a-3c7015f6787e)<br>
+![kpi2](https://github.com/cjpizarroz/P2_Data17/assets/90941874/7f22b0e6-d44a-460d-851a-10d7e904b6ef)<br>
 
 
 Fuente de datos
