@@ -33,37 +33,37 @@ No se detectaron valores atípicos.<br>
 Análisis<br>
 
 
-![grafico1](https://github.com/cjpizarroz/P2_Data17/assets/90941874/bf7b51cc-5259-49c6-a11f-3f04cec9f6f6)<br>
+![grafico1](https://github.com/cjpizarroz/P2_Data17/assets/90941874/bf7b51cc-5259-49c6-a11f-3f04cec9f6f6)
 
 
 En este grafico observamos la cantidad de accidentes por cada comuna. No se observa valores atipicos.<br>
 
 
-![grafico2](https://github.com/cjpizarroz/P2_Data17/assets/90941874/14e953df-d758-471c-97b5-33bb85109b60)<br>
+![grafico2](https://github.com/cjpizarroz/P2_Data17/assets/90941874/14e953df-d758-471c-97b5-33bb85109b60)
 
 
 Aqui observamos la cantidad fallecidos por accidente en cada comuna. Es un grafico muy similar al anterior en la distribucion, con algunas pequeñas diferencias en sus valores.<br>
 
 
-![grafico3](https://github.com/cjpizarroz/P2_Data17/assets/90941874/309c057d-f0bd-4184-91e2-019eab03a22e)<br>
+![grafico3](https://github.com/cjpizarroz/P2_Data17/assets/90941874/309c057d-f0bd-4184-91e2-019eab03a22e)
 
 
 Aqui observamos como se distribuyeron en el tiempo los accidentes, con un marcado descenso en los tiempos de pandemia.<br>
 
 
-![grafico4](https://github.com/cjpizarroz/P2_Data17/assets/90941874/97af3f5d-05cf-4d8c-9bf0-742a71165927)<br>
+![grafico4](https://github.com/cjpizarroz/P2_Data17/assets/90941874/97af3f5d-05cf-4d8c-9bf0-742a71165927)
 
 
 Observamos una marcada diferencia entre los fallecimientos de hombres en comparación con las mujeres.<br>
 
 
-![grafico5](https://github.com/cjpizarroz/P2_Data17/assets/90941874/8bbe63bb-8154-4399-a2ed-6e02b94bc40d)<br>
+![grafico5](https://github.com/cjpizarroz/P2_Data17/assets/90941874/8bbe63bb-8154-4399-a2ed-6e02b94bc40d)
 
 
 Vemos es este grafico, como la gran mayoria de los fallecimientos se encuentran englobados en los roles de conductores y peatones.<br>
 
 
-![grafico6](https://github.com/cjpizarroz/P2_Data17/assets/90941874/72580cb1-478f-417d-8058-92cc8423713b)<br>
+![grafico6](https://github.com/cjpizarroz/P2_Data17/assets/90941874/72580cb1-478f-417d-8058-92cc8423713b)
 
 
 Aqui observamos como tanto las motos como los peatones tienen los mayores porcentajes de fallecimientos de personas<br>
