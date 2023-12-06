@@ -69,7 +69,7 @@ Vemos es este grafico, como la gran mayoria de los fallecimientos se encuentran 
 
 Aqui observamos como tanto las motos como los peatones tienen los mayores porcentajes de fallecimientos de personas<br>
 
-Dashboard<br>
+<h3>Dashboard</h3><br>
 Se confecciono Dashboard, con una portada, una introduccion, dos KPI y un tooltip<br>
 
 ![portada](https://github.com/cjpizarroz/P2_Data17/assets/90941874/cdbc5785-79bd-4511-b7c9-54b827783226)<br>
