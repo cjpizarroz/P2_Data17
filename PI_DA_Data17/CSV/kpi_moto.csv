@@ -1,0 +1,8 @@
+year,victima,n_victimas,n_victimas_anterior
+2016,MOTO,65,0
+2017,MOTO,56,65
+2018,MOTO,57,56
+2019,MOTO,50,57
+2020,MOTO,29,50
+2021,MOTO,45,29
+2022,MOTO,1,45
