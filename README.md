@@ -32,6 +32,13 @@ Valores Atípicos:<br>
 No se detectaron valores atípicos.<br>
 Análisis<br>
 ![grafico1](https://github.com/cjpizarroz/P2_Data17/assets/90941874/bf7b51cc-5259-49c6-a11f-3f04cec9f6f6)<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
 En este grafico observamos la cantidad de accidentes por cada comuna. No se observa valores atipicos.<br>
 ![grafico2](https://github.com/cjpizarroz/P2_Data17/assets/90941874/14e953df-d758-471c-97b5-33bb85109b60)<br>
 Aqui observamos la cantidad fallecidos por accidente en cada comuna. Es un grafico muy similar al anterior en la distribucion, con algunas pequeñas diferencias en sus valores.<br>
